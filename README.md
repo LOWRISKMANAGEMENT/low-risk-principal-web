@@ -1,13 +1,12 @@
 # low-risk-principal-web
-El software es una plataforma de inversión de bajo riesgo que permite a los usuarios invertir en una variedad de productos de inversión, como fondos mutuos, ETF y acciones. El software está diseñado para ser fácil de usar y seguro, y ofrece a los usuarios la posibilidad de invertir de forma responsable y con un riesgo limitado.
-Las características principales del software incluyen:
-Una selección de productos de inversión de bajo riesgo: El software ofrece una variedad de productos de inversión de bajo riesgo, incluidos fondos mutuos, ETF y acciones. Estos productos están diseñados para ofrecer a los usuarios un potencial de crecimiento moderado con un riesgo limitado.
-Una interfaz de usuario fácil de usar: El software tiene una interfaz de usuario fácil de usar que permite a los usuarios crear una cuenta, iniciar sesión, y administrar su inversión.
-Herramientas de análisis y educación financiera: El software ofrece herramientas de análisis y educación financiera que ayudan a los usuarios a tomar decisiones de inversión informadas.
-Seguridad y protección: El software utiliza las últimas medidas de seguridad para proteger los datos de los usuarios.
-En general, el software es una herramienta útil para los inversores que buscan invertir de forma responsable y con un riesgo limitado. El software es fácil de usar y ofrece una variedad de productos de inversión y herramientas de análisis.
-Aquí hay algunos ejemplos específicos de cómo el software podría ser utilizado por los inversores:
-Un inversor que busca invertir su dinero para la jubilación podría utilizar el software para invertir en fondos mutuos de bajo riesgo.
-Un inversor que busca generar ingresos pasivos podría utilizar el software para invertir en ETF de dividendos.
-Un inversor que busca invertir en una empresa específica podría utilizar el software para comprar acciones de esa empresa.
-El software tiene el potencial de ayudar a los inversores a alcanzar sus objetivos financieros.
+"El Software es una plataforma Inmobiliaria de múltiples usos y vertientes. 
+
+Nos encargamos, primariamente, ya sea como Intermediarios Financieros de Credito Inmobiliario o como apoyo a los mismos con los que ya cuente una Sucursal Inmobiliaria, una Constructora o un Portal Web Inmobilliario (cualquiera que sea su forma legal), de generar diversos informes automatizados (tanto destinados al cliente final como destinados a la entidad contratante), extensos en su desarrollo, con datos al céntimo y que explican todo aquello que más relevancia supone en una relación comercial Inmobiliaria. Todo ello con la intención de facilitar al máximo la obtención de cada cliente, aportarle un gran valor añadido en cuanto al contenido de los mismos, y ofrecerle una rapidez estimada inicial de menos de 3 minutos en obtener resultados.
+
+Estos cálculos buscan estar actualizados con la realidad del Sector Inmobiliario, además de mostrarse en un lenguaje y una estructura que los hacen fáciles de entender y de realizar, por lo que todo tipo de personal o público objetivo, al margen de sus capacidades, pueda ayudar en el proceso de asesoramiento inmediato.
+
+Engloba diversos canales en los que presta servicio y está respaldado por profesionales con titulación LCCI que cumplen todos aquellos requisitos estipulados por la autoridad competente BdE.
+
+Adicionalmente, y debido al compromiso de la entidad para con todos y cada uno de sus clientes, dispone o está desarrollando todo tipo de servicios web con los que poder facilitar al máximo la realización de estos informes (por diferentes vías), además de diversos otros productos comerciales que ayuden a digitalizar el mercado inmobiliario, a la vez que se consiguen hacer, más fáciles y rápidas, todas aquellas funciones que se desarrollen en el día a día de estas entidades anteriormente mencionadas.
+
+Seguridad y protección: El software utiliza las últimas medidas de seguridad para proteger los datos de los usuarios."
